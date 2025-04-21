@@ -16,8 +16,6 @@ Mental health issues such as depression and anxiety are increasingly common, and
   - `x_train`, `x_test`
   - `y_train`, `y_test`
 
-> **Note**: Dataset is not provided in this repository. Please use your own or any open-source mental health dataset.
-
 ## 📌 Technologies Used
 
 - Python
