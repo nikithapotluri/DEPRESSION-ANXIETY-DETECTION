@@ -36,8 +36,10 @@ Mental health issues such as depression and anxiety are increasingly common, and
    cd mental-health-ml
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-3. Run the notebook or Python script:
+4. Run the notebook or Python script:
+   ```bash
    python mental_health_prediction.py
 
